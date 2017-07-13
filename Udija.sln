@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udija", "Udija\Udija.csproj", "{B6E372CE-EC65-4F7F-942D-BDA9C0268B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udija.Tests", "Udija.Tests\Udija.Tests.csproj", "{9B90D3C3-7D99-4598-8D8D-F1FCB358248E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E372CE-EC65-4F7F-942D-BDA9C0268B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E372CE-EC65-4F7F-942D-BDA9C0268B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E372CE-EC65-4F7F-942D-BDA9C0268B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E372CE-EC65-4F7F-942D-BDA9C0268B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B90D3C3-7D99-4598-8D8D-F1FCB358248E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B90D3C3-7D99-4598-8D8D-F1FCB358248E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B90D3C3-7D99-4598-8D8D-F1FCB358248E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B90D3C3-7D99-4598-8D8D-F1FCB358248E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
